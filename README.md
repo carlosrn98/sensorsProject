@@ -9,3 +9,5 @@ https://youtu.be/W9yYMgu-1H4
 https://youtu.be/ECasFFiJu8s
 https://youtu.be/D7gMmVi1dKY
 https://youtu.be/kE353BXHOks
+
+Disclaimer: keep in mind that this project was created a long time ago while at college, so my coding skills and best practices were scarce.
